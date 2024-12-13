@@ -1,0 +1,39 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+}
+button
+{
+    position: relative;
+    left: 11rem;
+    margin-top: 20px;
+    
+}
+#result
+{
+    position: relative;
+    left: 4rem;
+    margin-top: 20px;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+h2{
+    position: relative;
+    text-align: center;
+    font-size: xxx-large;
+}
+h3
+{
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+}
+label
+{
+    font-weight: 600;
+}
